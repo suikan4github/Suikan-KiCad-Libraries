@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP UMB-ADAU1361A
+D Kaneko System Audio Codec Module with Analog Devices ADAU1361
+K CODEC
+F http://dsps.shop-pro.jp/?pid=82798273
+$ENDCMP
+#
+#End Doc Library
