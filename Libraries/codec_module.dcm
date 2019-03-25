@@ -6,4 +6,10 @@ K CODEC
 F http://dsps.shop-pro.jp/?pid=82798273
 $ENDCMP
 #
+$CMP UMB-SS2603
+D Kaneko System UBM-SSM2603 Codec Module
+K SSM2603 CODEC
+F http://dsps.shop-pro.jp/?pid=91857895
+$ENDCMP
+#
 #End Doc Library
