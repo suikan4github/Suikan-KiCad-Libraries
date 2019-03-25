@@ -6,9 +6,9 @@ EESchema-LIBRARY Version 2.4
 DEF SparkFun-7-Segment-Serial-Display-Red LED 0 40 Y Y 1 F N
 F0 "LED" -1500 -750 45 H V L TNN
 F1 "SparkFun-7-Segment-Serial-Display-Red" 1500 -750 45 H V R TNN
-F2 "7-SEGMENT-4DIGIT-YOUNGSUN" 0 -900 20 H I C CNN
+F2 "display_module:SparkFun-7-Segment-Serial-Display" 0 -900 20 H I C CNN
 F3 "" 0 200 50 H I C CNN
-F4 " COM-11441" 0 -850 60 H V C CNN
+F4 " COM-11441" 0 -850 60 H I C CNN
 $FPLIST
  *7-SEGMENT-4DIGIT-YOUNGSUN*
 $ENDFPLIST
