@@ -7,12 +7,20 @@ Record of the modification in project development.
 ### Deprecated
 ### Removed
 ### Fixed
-- [Issue 1 : UMB-ADAU1361A pin hole size is too small](https://github.com/suikan4github/Suikan-KiCad-Libraries/issues/1)
-- [Issue 2 : Serial 7-segment display drill hole is too small](https://github.com/suikan4github/Suikan-KiCad-Libraries/issues/2)
-
 ### Security
 ### Known Issue
 
+
+## [1.0.2] - 2019-05-12
+
+### Added
+### Changed
+### Deprecated
+### Removed
+### Fixed
+- [Issue : 3 Serial 7 segment module has wrong pin assigment. ](https://github.com/suikan4github/Suikan-KiCad-Libraries/issues/3)
+### Security
+### Known Issue
 
 ## [1.0.1] - 2019-04-14
 
@@ -21,6 +29,9 @@ Record of the modification in project development.
 ### Deprecated
 ### Removed
 ### Fixed
+- [Issue 1 : UMB-ADAU1361A pin hole size is too small](https://github.com/suikan4github/Suikan-KiCad-Libraries/issues/1)
+- [Issue 2 : Serial 7-segment display drill hole is too small](https://github.com/suikan4github/Suikan-KiCad-Libraries/issues/2)
+
 ### Security
 ### Known Issue
 
