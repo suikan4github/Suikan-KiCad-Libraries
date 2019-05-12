@@ -45,5 +45,6 @@ Initial release.
 ### Fixed
 ### Security
 
-[Unreleased]: https://github.com/suikan4github/Suikan-KiCad-Libraries/compare/v1.0.1...develop
+[Unreleased]: https://github.com/suikan4github/Suikan-KiCad-Libraries/compare/v1.0.2...develop
 [1.0.1]: https://github.com/suikan4github/Suikan-KiCad-Libraries/compare/v1.0.0...v1.0.1
+[1.0.2]: https://github.com/suikan4github/Suikan-KiCad-Libraries/compare/v1.0.1...v1.0.2
