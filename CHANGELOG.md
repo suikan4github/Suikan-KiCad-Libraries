@@ -3,6 +3,8 @@ Record of the modification in project development.
 ## [Unreleased]
 
 ### Added
+- [Issue : 5 Add AE-XCL102D503CR-G to library ](https://github.com/suikan4github/Suikan-KiCad-Libraries/issues/5)
+
 ### Changed
 ### Deprecated
 ### Removed
